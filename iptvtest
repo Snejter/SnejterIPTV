@@ -1,4 +1,6 @@
 #EXTINF:-1,----- Maltese TV -----
+#EXTINF:-1 tvg-id="Smash TV-MLT" tvg-name="" tvg-language="" tvg-logo="https://static.iptv-epg.com/mt/SmashTV.mt.png" tvg-country="MT" tvg-url="" group-title="",Smash TV
+http://s3.smashmalta.com/hls/smash/smash.m3u8
 http://no.wayin.com/live/get/out/1234.ts
 #EXTINF:-1,MT - TVM HD
 http://192.166.246.202:25461/AvFnSBPmxa/kPG4GydcJv/61573?play_token=Q0QDLFPbCa&token=ShMNUhBbRlwSXQIOUA9UVgNWAgQJAQxTUFZTB1EPUlEGBFFSW1JWVQgaTxtFQhRXB15uD10RDwRQVAYCGRoWF1RDOloHEV5EBgtQAA4HRB5ER1gLXBEPA1dQAQYNC1BTAh1HQwpXRlwSCVYBDwVEHkRWSRJcQVtTDT5VVENRAAETCwtGD19IRF9WPF1TWwdcAhELRAkRGRAIEkETD1YWCF0dR1EKRxYHRF1BAxQEVwdeER1EWlxAXBUTSBMPGi4wEx1HVhtHAQhDUQxXFAxERhURHURQQGpABBJFQ1BZDgFDE18RUxFIRF1ZG2ZVWQhcA1BFD1ZdRhBbQwATGRoOC19YEVwRbBQPVBpZGwcDXgpTEUw=
