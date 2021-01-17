@@ -13,6 +13,7 @@ http://192.166.246.202:25461/MxR9HBznk7/nDHwopJwJi/42530?play_token=lulfGjvjxk&t
 http://192.166.246.201:25461/Ueqztg07T9/dSeEMURSwM/42529?play_token=K4ntDD9WVr&token=ShMNUhBbRlwSCAdcD1NeUQdXBQBYUlcGVFVQAAJZUAAJUgMLBgUFB1YaTxtFQhRXB15uD10RDwZTVAMIGRoWF1RDOloHEV5EAQlTCgYBURBKEUUPVFYXCFBXAAECAFBcAgNJERNaAEQKGlcPAQNREEoRVB5NVkdcAA1uVVBOCgdUE19dFl8IShJXDWZSUwtTCFcTXBsDFx5DCEJBFwINEV1dSREBWhAUUUwGGwwUVANQBRNKG1BaRw8VQ0gXAkEpZRNJEQZLEANeSwpWWBRcEBJAE0obWkZtEwRCRUddAglUQ0cJQQNGShJVAkFpVQlcCFZSElBcW0FDWxMAFxRBCV5fDEcMQTsWWVxBAxQCUAVSBhMb
 #EXTINF:-1 tvg-ID="" tvg-name="MT: SMASH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Smash_Television_logo.png" group-title="MALTIN",MT: SMASH
 http://s3.smashmalta.com/hls/smash/smash.m3u8
+#EXTINF:-1 http://no.wayin.com/live/get/out/1234.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR: BeIN Sports 11" tvg-logo="" group-title="Sports",BeIN Sports 11
 http://rv.imax.re:80/0279710397/1396542894/78553
 #EXTINF:-1,|AR| BEIN SPORTS 11 UHD EN
