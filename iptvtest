@@ -4,7 +4,7 @@ http://62.210.127.6:8080/movie/BBVas6BdPx/x1ThJeXwqT/19990.mkv?play_token=DNQNxT
 http://62.210.208.53:8080/movie/BBVas6BdPx/x1ThJeXwqT/12472.mkv?play_token=98jBTP0cyy&token=ShMNUhBbRlwSWQYJB1RfBFQKUlRaB1NUBFcACAZcAlRVVFUDBQYBUAMaTxtFQhRXB15uD10RDwNTVQYDGRoWF1RDOloHEV5EBQtSDwQFRB5ER1gLXBEPA1dQAAEFD1RVCR1HQwpXRlwSCVELDw9EHkRWSRJcQVtTDT5VVENRAAETC0cRTxELCG9cBlRXWAIQXBEBRBURXEERQwtfQFQPSBNTDEcRUhADEgJBDQAPUhBKEVIJTF1BQBhDCxN4bEFIE1QdRwZdFw9fVkEDFFsNREQfEw9KbEdXEhVDVFRVBhYTC0cDQR9GC1FAPFpZWAhXBUdYCVdAFwhDUBMdF1UMClhFCkE8Qw0CEgINTFpaGw==
 #EXTINF:-1 http://no.wayin.com/live/get/out/1234.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MT: TVM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Tvm-logo.svg/revision/latest/scale-to-width-down/512?cb=20200518230859" group-title="Maltin",MT: TVM
-http://192.166.246.202:25461/uZ9jHXZA9A/TQ0j2hZbf3/61573?play_token=5ndc8hZgxU&token=ShMNUhBbRlwSXAILUwFQCgUFVwVfUlFTBwIAVFBaBVwDA10DU1FdAFIaTxtFQhRXB15uD10RDwRQVAYCGRoWF1RDOloHEV5ECQ9UCQQGRB5ER1gLXBEPA1dQAAECAFVWBh1HQwpXRlwSDVcBBgREHkRWSRJcQVtTDT5VVENRAAETCwtGD19IRF9WPF1TWwdcAhELRAkRGRAIEkETD1YWCF0dR1EKRxYHRF1BAxQEVwZRER1EWlxAXBUTSBMPGi4wEx1HVhtHAQhDUQxXFAxERhURHURQQGpABBJFQ1BZDgFDE18RUxFIRF1ZG2ZVWQhcA1BFD1ZdRhBbQwATGRoOC19YEVwRbBQPVBpZGwMCUQpREUw=
+http://192.166.246.202:25461/uZ9jHXZA9A/TQ0j2hZbf3/61573?play_token=Wp8bbTg4KC&token=ShMNUhBbRlwSAVoBVFJTC1ZVCABdAVQCWFRQBlEAUF0EVFwHWgBcVlUaTxtFQhRXB15uD10RDwRQVAYCGRoWF1RDOloHEV5ECQ9UCQQGRB5ER1gLXBEPA1dQAAENCFNUBh1HQwpXRlwSClULBQZEHkRWSRJcQVtTDT5VVENRAAETCwtGD19IRF9WPF1TWwdcAhELRAkRGRAIEkETD1YWCF0dR1EKRxYHRF1BAxQEVwRWER1EWlxAXBUTSBMPGi4wEx1HVhtHAQhDUQxXFAxERhURHURQQGpABBJFQ1BZDgFDE18RUxFIRF1ZG2ZVWQhcA1BFD1ZdRhBbQwATGRoOC19YEVwRbBQPVBpZGwQAVABWEUw=
 #EXTINF:-1,MT tvg-ID="" tvg-name="MT: TVM2" tvg-logo="https://scontent.fmla1-2.fna.fbcdn.net/v/t31.0-8/1052347_10152410592226443_1463995574826130662_o.png?_nc_cat=111&ccb=2&_nc_sid=9267fe&_nc_ohc=Q-uCKOVMilsAX8wPaGU&_nc_ht=scontent.fmla1-2.fna&oh=1b8ec02748a8de4732178af345547c50&oe=602901DF" group-title="Maltin",MT: TVM2
 http://192.166.246.202:25461/uZ9jHXZA9A/TQ0j2hZbf3/61575?play_token=nNlq0T9tMk&token=ShMNUhBbRlwSC1cBAldWA1IGA1QLCg1UWFIHBgBZUlYFBAAHAAsBUwEaTxtFQhRXB15uD10RDwRQVAYEGRoWF1RDOloHEV5ECQ9UCQQGRB5ER1gLXBEPA1dQAAECAFVRCR1HQwpXRlwSDVcBBwVEHkRWSRJcQVtTDT5VVENRAAETCwtGD19IRF9WPF1TWwdcAhELRAkRGRAIEkETD1YWCF0dR1EKRxYHRF1BAxQEVgFRER1EWlxAXBUTSBMPGi4wEx1HVhtHAQhDUQxXFAxERhURHURQQGpABBJFQ1BZDgFDE18RUxFIRF1ZG2ZVWQhcA1BFD1ZdRhBbQwATGRoOC19YEVwRbBQPVBpZGwMCUQpfEUw=
 #EXTINF:-1, tvg-ID="" tvg-name="MT - ONE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/One_white_detail.jpg/300px-One_white_detail.jpg" group-title="Maltin",MT - ONE TV 
@@ -22,314 +22,162 @@ http://62.182.80.63:25461/uZ9jHXZA9A/TQ0j2hZbf3/11600?play_token=W8SJGyGbqD&toke
 http://192.166.246.203:25461/uZ9jHXZA9A/TQ0j2hZbf3/18785?play_token=UfyYKYdlPP&token=ShMNUhBbRlwSClBdUg4HUF4FUwJaBQUBBFgEUAEIBgAEA1AFBQIHU1YaTxtFQhRXB15uD10RDwNZVgkEGRoWF1RDOloHEV5ECQ9UCQQGRB5ER1gLXBEPA1dQAAECAVBWBB1HQwpXRlwSDVQPBg9EHkRWSRJcQVtTDT5VVENRAAETCwtGD19IRF9WPF1TWwdcAhELRAkRGRAIEkETD1YWCF0dR1EKRxYHRF1BAxQFVQFUER1EWlxAXBUTSBMPGi4wEx1HVhtHAQhDUQxXFAxERhURHURQQGpABBJFQ1BZDgFDE18RUxFIRF1ZG2ZVWQhcA1BFD1ZdRhBbQwATGRoOC19YEVwRbBQPVBpZGwMPVwBeEUw=
 
 http://no.wayin.com/live/get/out/1234.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Uniresat" tvg-logo="" group-title="Taljani",Uniresat
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/172
-#EXTINF:-1,[IT] Tv8
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/173
-#EXTINF:-1,[IT] Top Crime
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/174
-#EXTINF:-1,[IT] Tg Com 24
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/175
-#EXTINF:-1,[IT] Super!
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/176
-#EXTINF:-1,[IT] Super Tennis HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/177
-#EXTINF:-1,[IT] Sky Uno HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/178
-#EXTINF:-1,[IT] Sky Uno Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/179
-#EXTINF:-1,[IT] Sky TG 24 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/181
-#EXTINF:-1,[IT] Sky Sport Uno HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/182
-#EXTINF:-1,[IT] Sky Sport Uno Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/183
-#EXTINF:-1,[IT] Sky Sport Serie A HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/184
-#EXTINF:-1,[IT] Sky Sport Serie A Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/185
-#EXTINF:-1,[IT] Sky Sport NBA HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/186
-#EXTINF:-1,[IT] Sky Sport NBA Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/187
-#EXTINF:-1,[IT] Sky Sport MotoGP HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/188
-#EXTINF:-1,[IT] Sky Sport MotoGP Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/189
-#EXTINF:-1,[IT] Sky Sport Football HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/190
-#EXTINF:-1,[IT] Sky Sport Football Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/191
-#EXTINF:-1,[IT] Sky Sport F1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/192
-#EXTINF:-1,[IT] Sky Sport F1 Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/193
-#EXTINF:-1,[IT] Sky Sport Collection HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/194
-#EXTINF:-1,[IT] Sky Sport Collection Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/195
-#EXTINF:-1,[IT] Sky Sport Arena HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/196
-#EXTINF:-1,[IT] Sky Sport Arena Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/197
-#EXTINF:-1,[IT] Sky Sport 24 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/206
-#EXTINF:-1,[IT] Sky Sport 24 Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/207
-#EXTINF:-1,[IT] Sky Cinema Uno HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/208
-#EXTINF:-1,[IT] Sky Cinema Uno Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/209
-#EXTINF:-1,[IT] Sky Cinema Uno  24 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/210
-#EXTINF:-1,[IT] Sky Cinema Uno  24 Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/211
-#EXTINF:-1,[IT] Sky Cinema Suspance HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/212
-#EXTINF:-1,[IT] Sky Cinema Suspance Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/213
-#EXTINF:-1,[IT] Sky Cinema Romance HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/214
-#EXTINF:-1,[IT] Sky Cinema Romance Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/215
-#EXTINF:-1,[IT] Sky Cinema Family Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/216
-#EXTINF:-1,[IT] Sky Cinema Family  1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/217
-#EXTINF:-1,[IT] Sky Cinema Due HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/218
-#EXTINF:-1,[IT] Sky Cinema Due Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/219
-#EXTINF:-1,[IT] Sky Cinema Due  24 Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/220
-#EXTINF:-1,[IT] Sky Cinema Drama HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/221
-#EXTINF:-1,[IT] Sky Cinema Drama Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/222
-#EXTINF:-1,[IT] Sky Cinema Comedy HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/223
-#EXTINF:-1,[IT] Sky Cinema Comedy Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/224
-#EXTINF:-1,[IT] Sky Cinema Collection HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/225
-#EXTINF:-1,[IT] Sky Cinema Collection Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/226
-#EXTINF:-1,[IT] Sky Cinema Action Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/227
-#EXTINF:-1,[IT] Sky Cinema Action  1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/228
-#EXTINF:-1,[IT] Sky Atlantic HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/229
-#EXTINF:-1,[IT] Sky Atlantic Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/230
-#EXTINF:-1,[IT] Sky Atlantic  1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/231
-#EXTINF:-1,[IT] Sky Arte HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/232
-#EXTINF:-1,[IT] RTL 102.5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/233
-#EXTINF:-1,[IT] RSI La2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/234
-#EXTINF:-1,[IT] RSI La1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/235
-#EXTINF:-1,[IT] Roma Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/236
-#EXTINF:-1,[IT] Rete 4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/237
-#EXTINF:-1,[IT] Real Time
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/238
-#EXTINF:-1,[IT] Rai yoyo
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/239
-#EXTINF:-1,[IT] Rai Storia
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/240
-#EXTINF:-1,[IT] Rai Sport   HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/241
-#EXTINF:-1,[IT] Rai Scuola
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/242
-#EXTINF:-1,[IT] Rai Premium
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/243
-#EXTINF:-1,[IT] Rai News 24
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/244
-#EXTINF:-1,[IT] Rai Movie
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/245
-#EXTINF:-1,[IT] Rai Gulp
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/246
-#EXTINF:-1,[IT] Rai 5 Ful HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/247
-#EXTINF:-1,[IT] Rai 4 Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/248
-#EXTINF:-1,[IT] Rai 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/249
-#EXTINF:-1,[IT] Rai 3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/250
-#EXTINF:-1,[IT] Rai 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/252
-#EXTINF:-1,[IT] Rai 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/254
-#EXTINF:-1,[IT] Radio Italia TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/256
-#EXTINF:-1,[IT] Radio Capital TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/257
-#EXTINF:-1,[IT] Radio 105 TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/258
-#EXTINF:-1,[IT] Premium Stories
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/259
-#EXTINF:-1,[IT] Premium Energy Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/260
-#EXTINF:-1,[IT] Premium Energy
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/261
-#EXTINF:-1,[IT] Premium Emotion
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/262
-#EXTINF:-1,[IT] Premium Crime HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/263
-#EXTINF:-1,[IT] Premium Crime Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/264
-#EXTINF:-1,[IT] Premium Comedy
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/265
-#EXTINF:-1,[IT] Premium Cinema HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/266
-#EXTINF:-1,[IT] Premium Cinema  24 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/267
-#EXTINF:-1,[IT] Premium Action HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/268
-#EXTINF:-1,[IT] Premium Action Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/269
-#EXTINF:-1,[IT] Premium 20
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/270
-#EXTINF:-1,[IT] Pesca e Caccia
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/271
-#EXTINF:-1,[IT] Paramount HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/272
-#EXTINF:-1,[IT] Nove TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/273
-#EXTINF:-1,[IT] Nickelodeon
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/274
-#EXTINF:-1,[IT] Nick Junior
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/275
-#EXTINF:-1,[IT] NationalGeo HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/276
-#EXTINF:-1,[IT] NatGeo Wild HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/277
-#EXTINF:-1,[IT] Milan Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/278
-#EXTINF:-1,[IT] Mediaset Extra
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/279
-#EXTINF:-1,[IT] Marco Polo
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/280
-#EXTINF:-1,[IT] Man-Ga
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/281
-#EXTINF:-1,[IT] M2O
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/282
-#EXTINF:-1,[IT] Lei
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/283
-#EXTINF:-1,[IT] LaEffe
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/284
-#EXTINF:-1,[IT] La7d
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/285
-#EXTINF:-1,[IT] La7
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/286
-#EXTINF:-1,[IT] La 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/287
-#EXTINF:-1,[IT] K2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/288
-#EXTINF:-1,[IT] Italia 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/289
-#EXTINF:-1,[IT] Italia 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/290
-#EXTINF:-1,[IT] Fox Crime HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/291
-#EXTINF:-1,[IT] Fox Crime Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/292
-#EXTINF:-1,[IT] Focus
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/293
-#EXTINF:-1,[IT] Eurosport 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/294
-#EXTINF:-1,[IT] Eurosport 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/295
-#EXTINF:-1,[IT] Dove
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/296
-#EXTINF:-1,[IT] Dmax
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/297
-#EXTINF:-1,[IT] Disney Junior
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/298
-#EXTINF:-1,[IT] Disney Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/299
-#EXTINF:-1,[IT] Discovery Sci HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/300
-#EXTINF:-1,[IT] Discovery HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/301
-#EXTINF:-1,[IT] Discovery Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/302
-#EXTINF:-1,[IT] Dea Kids
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/303
-#EXTINF:-1,[IT] Dea junior
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/304
-#EXTINF:-1,[IT] DAZN Sport 5 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/305
-#EXTINF:-1,[IT] DAZN Sport 4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/306
-#EXTINF:-1,[IT] DAZN Sport 3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/307
-#EXTINF:-1,[IT] DAZN Sport 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/308
-#EXTINF:-1,[IT] DAZN Sport 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/309
-#EXTINF:-1,[IT] Dazn Serie A1 Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/310
-#EXTINF:-1,[IT] Crime Investigation HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/311
-#EXTINF:-1,[IT] Comedy Central
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/312
-#EXTINF:-1,[IT] Cartoonito
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/313
-#EXTINF:-1,[IT] Canale 8
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/314
-#EXTINF:-1,[IT] Canale 5 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/315
-#EXTINF:-1,[IT] Canale 5 Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/316
-#EXTINF:-1,[IT] Caccia e Pesca
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/317
-#EXTINF:-1,[IT] Boomerang
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/318
-#EXTINF:-1,[IT] Boing Plus
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/319
-#EXTINF:-1,[IT] Boing
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/320
-#EXTINF:-1,[IT] Blaze HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/321
-#EXTINF:-1,[IT] Baby Tv
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/323
-#EXTINF:-1,[IT] Alice
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/324
-#EXTINF:-1,[IT] Iris
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/325
-#EXTINF:-1,[IT] Inter Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/326
-#EXTINF:-1,[IT] History Lab
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/327
-#EXTINF:-1,[IT] History HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/328
-#EXTINF:-1,[IT] Giallo
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/329
-#EXTINF:-1,[IT] Gambero Rosso HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/330
-#EXTINF:-1,[IT] Frisbee
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/331
-#EXTINF:-1,[IT] Fox Life HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/332
-#EXTINF:-1,[IT] Fox Life Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/333
-#EXTINF:-1,[IT] Fox HD  1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/334
-#EXTINF:-1,[IT] Fox HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/335
-#EXTINF:-1,[IT] Fox Full HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/336
-#EXTINF:-1,[IT] Cartoon Network HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/338
-#EXTINF:-1,[IT] SkyMTV FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/339
+#EXTM3U
+#EXTINF:-1 tvg-name="*************** ITALY ************" tvg-logo="https://i.imgur.com/PzFJG5f.png",*************** ITALY ************
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20 Mediaset" tvg-logo="https://i.imgur.com/8SoOefS.png" group-title="ITALY",20 Mediaset
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="ITALY",Action Movies
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="ITALY",Amuse Animation
+https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="ITALY",Big Name
+https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/AMGo8sU.png" group-title="ITALY",Bloomberg
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boing Italia" tvg-logo="https://i.imgur.com/AcSRwuN.png" group-title="ITALY",Boing Italia
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/7RRCRh3.png" group-title="ITALY",Canale 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Camera dei Deputati (via RR)" tvg-logo="" group-title="ITALY",Camera dei Deputati (via RR)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/3lNJJ67.png" group-title="ITALY",Cartoonito
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CG Entertainment" tvg-logo="https://i.imgur.com/HB0LSjW.jpg" group-title="ITALY",CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine 34" tvg-logo="https://i.imgur.com/cOpASOB.png" group-title="ITALY",Cine 34
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Class CNBC" tvg-logo="" group-title="ITALY",Class CNBC
+https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="ITALY",Classical Harmony
+https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="ITALY",Comedy Movies
+https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/5KF1kRJ.png" group-title="ITALY;MUSIK",Deejay TV
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX IT" tvg-logo="https://i.imgur.com/vqTeu3A.png" group-title="ITALY",DMAX IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/N6OtbVs.png" group-title="ITALY",Donna TV
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="ITALY",Euronews
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Focus" tvg-logo="https://i.imgur.com/bFVWJR1.png" group-title="ITALY",Focus
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/RuuGNzX.png" group-title="ITALY",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="" group-title="ITALY",HGTV Italia
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Lab" tvg-logo="https://i.imgur.com/9D754nx.png" group-title="ITALY",History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Humanity" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="ITALY",Humanity
+https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iris" tvg-logo="https://i.imgur.com/rxn7gBM.png" group-title="ITALY",Iris
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/5RlYdhr.png" group-title="ITALY",Italia 1
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
+#EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La 5" tvg-logo="https://i.imgur.com/3mROs2T.png" group-title="ITALY",La 5
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/0T0BFRQ.png" group-title="ITALY",Mediaset Extra
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minerva Bizzarro Movies" tvg-logo="https://i.imgur.com/GQG22im.jpg" group-title="ITALY",Minerva Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minerva Cinema Segreto" tvg-logo="https://i.imgur.com/fuvc0QF.jpg" group-title="ITALY",Minerva Cinema Segreto
+https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="ITALY",MMA TV
+https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Mondo Kids" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="ITALY",Mondo Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="ITALY",Moods
+https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="ITALY",Motor TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://i.imgur.com/5ulOi6s.png" group-title="ITALY",MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Surf TV" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="ITALY",My Surf TV
+https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nove IT" tvg-logo="https://i.imgur.com/ADGbwMY.png" group-title="ITALY",Nove IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Italia" tvg-logo="" group-title="ITALY",Paramount Channel Italia
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ITALY",People are Awesome
+https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/zcipWuk.png" group-title="ITALY",R101 TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV" tvg-logo="" group-title="ITALY;MUSIK",Radio 105 TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 24" tvg-logo=" group-title="ITALY",Radio 24
+http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Capital TV" tvg-logo="https://i.imgur.com/0bv1gID.png" group-title="ITALY;MUSIK",Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA" tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
+#EXTINF:-1 tvg-name="Radio Italia TV" tvg-id="" tvg-logo="https://i.imgur.com/7eWrVUH.jpg" group-title="ITALY;MUSIK",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kiss Kiss Italia TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Kiss Kiss Italia TV
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kiss Kiss TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Kiss Kiss TV
+https://59253971be783.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio m2o TV" tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="ITALY;MUSIK",Radio m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Monte Carlo TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radicale TV" tvg-logo=" group-title="ITALY",Radio Radicale TV
+https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-logo=" group-title="ITALY",Radio Radio TV
+http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
+#EXTINF:-1 tvg-name="Radio Zeta TV" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="",Radio Zeta TV
+https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+#EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/9XMVvZ4.jpg",RAI News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/LDcsCZC.png" group-title="ITALY;MUSIK",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Time" tvg-logo="https://i.imgur.com/FvTKb8v.png" group-title="ITALY",Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/JGo7SJP.png" group-title="ITALY",Rete 4
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-name="RTL 102.5 BEST" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL 102.5 TV" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="",RTL 102.5 TV
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Senato" tvg-logo="" group-title="ITALY",Senato
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky TG24" tvg-logo="" group-title="ITALY",Sky TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spike" tvg-logo="https://i.imgur.com/XOJMD0u.png" group-title="ITALY",Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="ITALY",Spotlight
+https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super!" tvg-logo="" group-title="ITALY",Super!
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="ITALY",Supertoons TV
+https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="ITALY",Teletubbies
+https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGCOM24" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-name="Top Crime" tvg-id="" group-title="ITALY" tvg-logo="",Top Crime
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1 tvg-name="Top Crimine" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crimine
+https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Series" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/P4hb5Ws.jpg",Top Series
+https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 2000" tvg-logo="https://i.imgur.com/y2LUcDt.png" group-title="ITALY",TV 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="ITALY",TV Shows
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Italia" tvg-logo="https://i.imgur.com/J06pfxg.png" group-title="ITALY",VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Radio TV" tvg-logo="" group-title="ITALY;MUSIK",Virgin Radio TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vuemme" tvg-logo="" group-title="ITALY;MUSIK",Vuemme
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+
 http://no.wayin.com/live/get/out/1234.ts
 #EXTINF:-1,|UK|SD| BBC2
 http://rv.imax.re:80/0279710397/1396542894/80344
